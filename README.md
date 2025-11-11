@@ -27,7 +27,8 @@ This stack reflects my full-stack background, teaching expertise, and current le
 
 | Category | Technologies / Expertise |
 | :--- | :--- |
-| **Front-End Dev** | HTML5, CSS3, JavaScript, [Frameworks used for Moonton, e.g., React/Vue/Bootstrap] |
+| **Front-End Dev** | HTML5, CSS3, JavaScript, Tailwind CSS (Utility-First Styling), JSX (React/Inertia), Blade Templating |
+| **Back-End Dev / Framework ** | Laravel (PHP Framework), RESTful APIs |
 | **Teaching Expertise** | **C#** (3+ years instruction), Object-Oriented Programming (OOP) |
 | **Systems / MIS** | Technical Support, System Administration, LMS Management (Future Role), Windows/Linux Troubleshooting |
 | **Future / DevOps Focus** | 💡 **Cloud Platforms** ([AWS/Azure/GCP]), **Containerization** (Docker), **Automation** ([Ansible/Terraform]), **CI/CD** ([Jenkins/GitHub Actions]) |
@@ -44,20 +45,9 @@ I am currently pursuing a **Master of Information Technology (M.I.T.)**, further
 
 ---
 
-### 📈 GitHub Stats & Learning Path
-
-My active repositories demonstrate my dedication to development and my commitment to the DevOps/Cloud learning path.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="[YOUR NAME]'s GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ### 💬 Connect with Me
 
 I am actively networking with professionals in the DevOps and Cloud Engineering space. Let's connect!
 
-* [<img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/jairuz-paulo-saure-004959317/])
+* [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jairuz-paulo-saure-004959317/)
 * 📫 Email: jairuzpaulosaurecasinillo@gmail.com
