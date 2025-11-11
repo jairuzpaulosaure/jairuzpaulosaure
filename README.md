@@ -28,7 +28,7 @@ This stack reflects my full-stack background, teaching expertise, and current le
 | Category | Technologies / Expertise |
 | :--- | :--- |
 | **Front-End Dev** | HTML5, CSS3, JavaScript, Tailwind CSS (Utility-First Styling), JSX (React/Inertia), Blade Templating |
-| **Back-End Dev / Framework ** | Laravel (PHP Framework), RESTful APIs |
+| **Back-End Dev / Framework** | Laravel (PHP Framework), RESTful APIs |
 | **Teaching Expertise** | **C#** (3+ years instruction), Object-Oriented Programming (OOP) |
 | **Systems / MIS** | Technical Support, System Administration, LMS Management (Future Role), Windows/Linux Troubleshooting |
 | **Future / DevOps Focus** | 💡 **Cloud Platforms** ([AWS/Azure/GCP]), **Containerization** (Docker), **Automation** ([Ansible/Terraform]), **CI/CD** ([Jenkins/GitHub Actions]) |
