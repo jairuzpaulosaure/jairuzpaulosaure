@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/130030318?v=4" width="160" height="160" alt="Profile Picture" style="border-radius: 50%;">
-  <h1>Hello, I'm [Jairuz Paulo Saure]!</h1>
+  <h1>Hello, I'm Jairuz Paulo Saure!</h1>
   <p>Versatile Technologist | Bridging Development, Education, and Operations</p>
 </div>
 
