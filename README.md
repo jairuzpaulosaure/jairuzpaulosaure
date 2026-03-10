@@ -1,53 +1,116 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/130030318?v=4" width="160" height="160" alt="Profile Picture" style="border-radius: 50%;">
-  <h1>Hello, I'm Jairuz Paulo Saure!</h1>
-  <p>Versatile Technologist | Bridging Development, Education, and Operations</p>
+
+<img src="https://avatars.githubusercontent.com/u/130030318?v=4" width="160" height="160" alt="Profile Picture" style="border-radius: 50%;">
+
+# Hello, I'm Jairuz Paulo Saure!
+
+**IT Support Engineer | System Administration | Technical Educator**
+
 </div>
 
 ---
 
-### 🚀 Profile Overview
+# 🚀 Profile Overview
 
-I am a highly motivated technologist with a background spanning **Technical Support, Education, and Software Development**. My expertise is in full-stack fundamentals, system reliability, and technical instruction.
+I am a technology professional with experience in **IT Support, Systems Management, Software Development, and Technical Education**.
 
-Currently, I am focused on pivoting my strong foundational knowledge toward **Cloud Engineering and DevOps** practices, aiming to build and manage resilient, scalable infrastructure.
+My career focus is becoming a **Level 2 IT Support Engineer / System Administrator**, specializing in infrastructure troubleshooting, enterprise systems support, and reliable IT operations.
 
-| Current Focus & Roles | Details |
-| :--- | :--- |
-| **Freelance Web Dev** | Front-End Developer for **MSL Philippines: Moonton Student Leader** program. |
-| **Technical Support** | MIS & Technical Support professional, transitioning to **IT Support Specialist | LMS Specialist**. |
-| **Academic** | Lecturer for **Programming 1 & 2 (C#)** for 3 years, educating the next generation of developers. |
-| **Continuous Learning** | Graduate studies in **M.I.T.** (Master of Information Technology) while actively self-studying **Cloud & DevOps** tools. |
+My background combines **technical support, programming, and teaching**, allowing me to approach technology from both operational and educational perspectives. I enjoy solving technical problems, improving system reliability, and helping users effectively utilize technology.
 
 ---
 
-### 💻 Core Technology Stack
+# 💻 Core Technical Skills
 
-This stack reflects my full-stack background, teaching expertise, and current learning path.
-
-| Category | Technologies / Expertise |
-| :--- | :--- |
-| **Front-End Dev** | HTML5, CSS3, JavaScript, Tailwind CSS (Utility-First Styling), JSX (React/Inertia), Blade Templating |
-| **Back-End Dev / Framework** | Laravel (PHP Framework), RESTful APIs |
-| **Teaching Expertise** | **C#** (3+ years instruction), Object-Oriented Programming (OOP) |
-| **Systems / MIS** | Technical Support, System Administration, LMS Management (Future Role), Windows/Linux Troubleshooting |
-| **Future / DevOps Focus** | 💡 **Cloud Platforms** ([AWS/Azure/GCP]), **Containerization** (Docker), **Automation** ([Ansible/Terraform]), **CI/CD** ([Jenkins/GitHub Actions]) |
-
----
-
-### 📚 Education & Instruction
-
-#### The Educator Role
-For the past three years, I have taught **Programming 1 and 2 using C#**. This experience has refined my ability to simplify complex technical concepts and ensure code quality—skills directly applicable to writing clear documentation and building maintainable infrastructure.
-
-#### Master's Pursuit
-I am currently pursuing a **Master of Information Technology (M.I.T.)**, further strengthening my knowledge in advanced computing principles and system management.
+| Category                         | Technologies / Expertise                                                      |
+| :------------------------------- | :---------------------------------------------------------------------------- |
+| **IT Support & Troubleshooting** | Windows OS, Linux Fundamentals, Hardware Troubleshooting, Network Diagnostics |
+| **System Administration**        | Active Directory, User & Group Management, Windows Server Basics              |
+| **Cloud & SaaS Systems**         | Microsoft 365 Administration, Google Workspace                                |
+| **Helpdesk & Support Tools**     | Ticketing Systems, Incident Management, Technical Documentation               |
+| **Development Background**       | HTML5, CSS3, JavaScript, Tailwind CSS                                         |
+| **Backend Knowledge**            | Laravel (PHP Framework), REST APIs                                            |
+| **Programming Instruction**      | C#, Object-Oriented Programming                                               |
+| **Currently Learning**           | PowerShell, Bash Scripting, Virtualization, Cloud Infrastructure              |
 
 ---
 
-### 💬 Connect with Me
+# 🧑‍💻 Professional Experience
 
-I am actively networking with professionals in the DevOps and Cloud Engineering space. Let's connect!
+## IT Support Specialist / LMS Support Specialist
 
-* [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jairuz-paulo-saure-004959317/)
-* 📫 Email: jairuzpaulosaurecasinillo@gmail.com
+Provide technical support for hardware, software, and network-related issues within an academic and operational environment.
+
+Responsibilities include:
+
+• Troubleshooting hardware, software, and system-related issues
+• Managing and supporting Learning Management Systems (LMS) used in academic operations
+• Assisting users with account access, platform usage, and technical incidents
+• Performing system maintenance and ensuring operational reliability of internal IT services
+• Coordinating with faculty and administrative staff to resolve system issues
+
+---
+
+## Programming Instructor (3+ Years)
+
+**ASAT – Under the Supervision of SOUTHVILLE SISC**
+
+Taught **Programming 1 and Programming 2 using C#**, helping students develop strong foundations in software development.
+
+Topics taught include:
+
+• Object-Oriented Programming (OOP)
+• Programming fundamentals and logic building
+• Code structure, debugging, and problem solving
+
+This experience strengthened my ability to **communicate complex technical concepts clearly**, which is valuable in **technical documentation, troubleshooting, and user support**.
+
+---
+
+## Freelance Web Developer
+
+**MSL Philippines – Moonton Student Leaders Program**
+
+Worked as a front-end developer contributing to web-based systems and interfaces.
+
+Responsibilities included:
+
+• Developing responsive user interfaces using Tailwind CSS
+• Implementing modern front-end components
+• Assisting in building web platforms for student community initiatives
+
+---
+
+# 🎓 Education
+
+## Master of Information Technology (M.I.T.)
+
+Graduate studies focused on **Project Management in Information Technology**, including:
+
+• IT Project Planning and Implementation
+• Technology Project Coordination
+• Systems Deployment and Management
+• Managing Technical Teams and Development Processes
+
+---
+
+# 📈 Career Direction
+
+My goal is to grow into a **Senior System Administrator or Cloud Infrastructure Engineer**, specializing in:
+
+• Enterprise IT infrastructure
+• System reliability and monitoring
+• Automation and scripting
+• Scalable and resilient IT environments
+
+---
+
+# 💬 Connect with Me
+
+I am actively networking with professionals in **IT Support, System Administration, Infrastructure, and Cloud Engineering**.
+
+🔗 LinkedIn
+https://www.linkedin.com/in/jairuz-paulo-saure-004959317/
+
+📧 Email
+[jairuzpaulosaurecasinillo@gmail.com](mailto:jairuzpaulosaurecasinillo@gmail.com)
